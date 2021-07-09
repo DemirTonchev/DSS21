@@ -9,7 +9,7 @@ For this workshop you will need [Anaconda or miniconda](https://docs.conda.io/en
 
 The next step is to clone this repository. Use git to run this command:
 
-    git clone https://github.com/DemirTonchev/DSS21
+    git clone https://github.com/DemirTonchev/DSS21.git
     
 
 ***
